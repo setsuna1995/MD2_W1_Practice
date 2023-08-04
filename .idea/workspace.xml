@@ -5,9 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="1b57b96e-1420-4e0b-855b-2d597be90cd7" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/Variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AreaRectangle.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Display_Time.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Display_Time.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,7 +48,14 @@
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.Variable">
+  <component name="RunManager" selected="Application.AreaRectangle">
+    <configuration name="AreaRectangle" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="AreaRectangle" />
+      <module name="MD2_W1_Practice" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Display_Time" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Display_Time" />
       <module name="MD2_W1_Practice" />
@@ -66,6 +72,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.AreaRectangle" />
         <item itemvalue="Application.Variable" />
         <item itemvalue="Application.Display_Time" />
       </list>
@@ -79,7 +86,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1691137844176</updated>
-      <workItem from="1691137845175" duration="798000" />
+      <workItem from="1691137845175" duration="1615000" />
     </task>
     <servers />
   </component>
